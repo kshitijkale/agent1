@@ -1,0 +1,4 @@
+langchain-ollama
+amadeus
+langchain
+pydantic
